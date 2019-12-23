@@ -1,0 +1,4 @@
+how ithappened.gitignore
+
+-initiation command =
+ rails new property-finder --database=postgresql --skip-test --skip-action-cable --skip-active-storage --skip-turbolinks --skip-yarn
